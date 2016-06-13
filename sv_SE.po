@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Light\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: Thu May 12 2016 11:41:14 GMT+0200\n"
-"PO-Revision-Date: Tue May 31 2016 10:23:39 GMT+0200\n"
+"PO-Revision-Date: Mon Jun 13 2016 11:57:11 GMT+0200\n"
 "Last-Translator: Chris Starjive <chris@starjive.com>\n"
 "Language-Team: \n"
 "Language: Swedish\n"
@@ -628,10 +628,6 @@ msgid ""
 "widgets are added here). Defaults to page content if no widgets are added."
 msgstr ""
 
-#: ../../app/frontend/sidebar-init.php:20 ../../app/frontend/theme-options.php:536
-msgid "Header"
-msgstr "Sidhuvud"
-
 #: ../../app/frontend/sidebar-init.php:20
 msgid "Optional widgetized area in your right header"
 msgstr ""
@@ -1143,11 +1139,6 @@ msgstr ""
 msgid "Set header container to display full width."
 msgstr ""
 
-#: ../../app/frontend/theme-options.php:495 ../../app/frontend/theme-options.php:
-#: 539
-msgid "Header Background Color"
-msgstr "Sidhuvud bakgrundsfärg "
-
 #: ../../app/frontend/theme-options.php:496
 msgid "Select the background color you want for your full width header."
 msgstr ""
@@ -1194,19 +1185,11 @@ msgstr ""
 msgid "Select the background color you want for your full width footer."
 msgstr ""
 
-#: ../../app/frontend/theme-options.php:531
-msgid "Header &amp; Footer"
-msgstr "Sidhuvud &amp; Sidfot"
-
 #: ../../app/frontend/theme-options.php:540
 msgid ""
 "Pick a custom color for header background or add a hex color code e.g. "
 "#0278c0"
 msgstr ""
-
-#: ../../app/frontend/theme-options.php:557
-msgid "Header Border"
-msgstr "Sidhuvud kantlinje"
 
 #: ../../app/frontend/theme-options.php:558
 msgid "Specify border properties for the header."
@@ -3481,7 +3464,7 @@ msgstr ""
 
 #: ../../app/frontend/widgets/blogauthor.php:178
 msgid "Read More"
-msgstr ""
+msgstr "Läs mer"
 
 #: ../../app/frontend/widgets/blogauthor.php:192
 msgid "Bio:"
@@ -3618,7 +3601,7 @@ msgstr ""
 #: templates/contents/content-page.php:44 ../../templates/contents/content-post.
 #: php:58 ../../templates/contents/content-magazine-featured.php:55
 msgid "Continue Reading &rarr;"
-msgstr ""
+msgstr "Läs hela artikeln &rarr;"
 
 #: ../../templates/contents/content-404.php:33
 msgid "Error 404 - Page not found!"
@@ -3629,6 +3612,8 @@ msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
 msgstr ""
+"Sidan du försöker nå existerar inte, eller har flyttats. Använd menyerna "
+"eller sökrutan för att hitta det du letar efter."
 
 #. Name of the theme
 msgid "Light"
@@ -3645,6 +3630,23 @@ msgstr ""
 #. Author of the theme
 msgid "STARJIVE STUDIOS"
 msgstr ""
+
+#: ../../app/frontend/sidebar-init.php:20 ../../app/frontend/theme-options.php:536
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: ../../app/frontend/theme-options.php:495 ../../app/frontend/theme-options.php:
+#: 539
+msgid "Header Background Color"
+msgstr "Sidhuvud bakgrundsfärg "
+
+#: ../../app/frontend/theme-options.php:531
+msgid "Header &amp; Footer"
+msgstr "Sidhuvud &amp; Sidfot"
+
+#: ../../app/frontend/theme-options.php:557
+msgid "Header Border"
+msgstr "Sidhuvud kantlinje"
 
 #: ../../searchform.php:4 ../../searchform.php:4 ../../searchform.php:4
 msgid "Search..."
