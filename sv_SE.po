@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Light\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: Thu May 12 2016 11:41:14 GMT+0200\n"
-"PO-Revision-Date: Mon Jun 13 2016 18:22:03 GMT+0200 (W. Europe Standard "
+"PO-Revision-Date: Tue Jun 14 2016 00:56:28 GMT+0200 (W. Europe Standard "
 "Time)\n"
 "Last-Translator: Chris Starjive <chris@starjive.com>\n"
 "Language-Team: \n"
@@ -171,8 +171,8 @@ msgstr ""
 msgid "You are here:"
 msgstr ""
 
-#: ../../app/backend/functions.php:2434 ../../app/frontend/actions.php:1620 ../..
-#: app/frontend/actions.php:1635
+#: ../../app/backend/functions.php:2434 ../../app/frontend/actions.php:1619 ../..
+#: app/frontend/actions.php:1634
 msgid "Home"
 msgstr ""
 
@@ -496,7 +496,7 @@ msgid "An ecommerce toolkit to help you sell anything. Beautifully."
 msgstr ""
 
 #: ../../app/backend/classes/screen-admin-base.php:269 ../../app/frontend/options.
-#: php:1880
+#: php:1881
 msgid "Projects"
 msgstr ""
 
@@ -590,81 +590,81 @@ msgstr ""
 msgid "Settings saved."
 msgstr ""
 
-#: ../../app/frontend/actions.php:184
+#: ../../app/frontend/actions.php:183
 msgid "Primary Menu"
 msgstr ""
 
-#: ../../app/frontend/actions.php:189
+#: ../../app/frontend/actions.php:188
 msgid "Top Menu"
 msgstr ""
 
-#: ../../app/frontend/actions.php:1156
+#: ../../app/frontend/actions.php:1155
 msgid ""
 "Setup slider by adding <strong>Post Tags</strong> in <em>Magazine Template > "
 "Posts Slider</em>."
 msgstr ""
 
-#: ../../app/frontend/actions.php:1408
+#: ../../app/frontend/actions.php:1407
 msgid "Please add some slider posts via Slides > Add New"
 msgstr ""
 
-#: ../../app/frontend/actions.php:1413
+#: ../../app/frontend/actions.php:1412
 msgid ""
 "Please note that this slider requires 2 or more slides in order to function. "
 "Please add another slide."
 msgstr ""
 
-#: ../../app/frontend/actions.php:1605
+#: ../../app/frontend/actions.php:1604
 msgid "Return to Content"
 msgstr ""
 
-#: ../../app/frontend/actions.php:1803
+#: ../../app/frontend/actions.php:1802
 #, php-format
 msgid "About %s"
 msgstr ""
 
-#: ../../app/frontend/actions.php:1808
+#: ../../app/frontend/actions.php:1807
 #, php-format
 msgid "View all posts by %s %s"
 msgstr ""
 
-#: ../../app/frontend/actions.php:1983 ../..
+#: ../../app/frontend/actions.php:1982 ../..
 #: app/frontend/extensions/meta/classes/meta.php:104
 msgid "By"
 msgstr ""
 
-#: ../../app/frontend/actions.php:1983
+#: ../../app/frontend/actions.php:1982
 msgctxt "post datetime"
 msgid "on"
 msgstr ""
 
-#: ../../app/frontend/actions.php:1983 ../..
+#: ../../app/frontend/actions.php:1982 ../..
 #: app/frontend/extensions/meta/classes/meta.php:104
 msgid "in"
 msgstr ""
 
-#: ../../app/frontend/actions.php:2085 ../../templates/template-contact-form.php:
+#: ../../app/frontend/actions.php:2084 ../../templates/template-contact-form.php:
 #: 225
 msgid "Name"
 msgstr ""
 
-#: ../../app/frontend/actions.php:2085 ../../app/frontend/actions.php:2087
+#: ../../app/frontend/actions.php:2084 ../../app/frontend/actions.php:2086
 msgid "required"
 msgstr ""
 
-#: ../../app/frontend/actions.php:2087
+#: ../../app/frontend/actions.php:2086
 msgid "Email (will not be published)"
 msgstr ""
 
-#: ../../app/frontend/actions.php:2089
+#: ../../app/frontend/actions.php:2088
 msgid "Website"
 msgstr ""
 
-#: ../../app/frontend/actions.php:2116
+#: ../../app/frontend/actions.php:2115
 msgid "Submit Comment"
 msgstr ""
 
-#: ../../app/frontend/actions.php:2119
+#: ../../app/frontend/actions.php:2118
 msgid "Click here to cancel reply."
 msgstr ""
 
@@ -684,134 +684,119 @@ msgstr ""
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
-#: ../../app/frontend/functions.php:70
+#: ../../app/frontend/functions.php:62
 msgid "Older posts"
 msgstr ""
 
-#: ../../app/frontend/functions.php:71
+#: ../../app/frontend/functions.php:63
 msgid "Newer posts"
 msgstr ""
 
-#: ../../app/frontend/functions.php:126
+#: ../../app/frontend/functions.php:118
 msgctxt "post type general name"
 msgid "Slides"
 msgstr ""
 
-#: ../../app/frontend/functions.php:127
+#: ../../app/frontend/functions.php:119
 msgctxt "post type singular name"
 msgid "Slide"
 msgstr ""
 
-#: ../../app/frontend/functions.php:128
+#: ../../app/frontend/functions.php:120
 msgctxt "slide"
 msgid "Add New"
 msgstr ""
 
-#: ../../app/frontend/functions.php:129
+#: ../../app/frontend/functions.php:121
 msgid "Add New Slide"
 msgstr ""
 
-#: ../../app/frontend/functions.php:130
+#: ../../app/frontend/functions.php:122
 msgid "Edit Slide"
 msgstr ""
 
-#: ../../app/frontend/functions.php:131
+#: ../../app/frontend/functions.php:123
 msgid "New Slide"
 msgstr ""
 
-#: ../../app/frontend/functions.php:132
+#: ../../app/frontend/functions.php:124
 msgid "View Slide"
 msgstr ""
 
-#: ../../app/frontend/functions.php:133
+#: ../../app/frontend/functions.php:125
 msgid "Search Slides"
 msgstr ""
 
-#: ../../app/frontend/functions.php:134
+#: ../../app/frontend/functions.php:126
 msgid "No slides found"
 msgstr ""
 
-#: ../../app/frontend/functions.php:135
+#: ../../app/frontend/functions.php:127
 msgid "No slides found in Trash"
 msgstr ""
 
-#: ../../app/frontend/functions.php:158
+#: ../../app/frontend/functions.php:150
 msgctxt "taxonomy general name"
 msgid "Slide Groups"
 msgstr ""
 
-#: ../../app/frontend/functions.php:159
+#: ../../app/frontend/functions.php:151
 msgctxt "taxonomy singular name"
 msgid "Slide Group"
 msgstr ""
 
-#: ../../app/frontend/functions.php:160
+#: ../../app/frontend/functions.php:152
 msgid "Search Slide Groups"
 msgstr ""
 
-#: ../../app/frontend/functions.php:161
+#: ../../app/frontend/functions.php:153
 msgid "All Slide Groups"
 msgstr ""
 
-#: ../../app/frontend/functions.php:162
+#: ../../app/frontend/functions.php:154
 msgid "Parent Slide Group"
 msgstr ""
 
-#: ../../app/frontend/functions.php:163
+#: ../../app/frontend/functions.php:155
 msgid "Parent Slide Group:"
 msgstr ""
 
-#: ../../app/frontend/functions.php:164
+#: ../../app/frontend/functions.php:156
 msgid "Edit Slide Group"
 msgstr ""
 
-#: ../../app/frontend/functions.php:165
+#: ../../app/frontend/functions.php:157
 msgid "Update Slide Group"
 msgstr ""
 
-#: ../../app/frontend/functions.php:166
+#: ../../app/frontend/functions.php:158
 msgid "Add New Slide Group"
 msgstr ""
 
-#: ../../app/frontend/functions.php:167
+#: ../../app/frontend/functions.php:159
 msgid "New Slide Group Name"
 msgstr ""
 
-#: ../../app/frontend/functions.php:168
+#: ../../app/frontend/functions.php:160
 msgid "Slide Groups"
 msgstr ""
 
-#: ../../app/frontend/functions.php:195 ../../app/frontend/functions.php:234 ../..
+#: ../../app/frontend/functions.php:187 ../../app/frontend/functions.php:226 ../..
 #: app/frontend/options.php:1659
 msgid "Subscribe"
 msgstr ""
 
-#: ../../app/frontend/functions.php:395
+#: ../../app/frontend/functions.php:387
 msgid "Tag Archives"
 msgstr ""
 
-#: ../../app/frontend/functions.php:412
+#: ../../app/frontend/functions.php:404
 msgid " Archives"
 msgstr ""
 
-#: ../../app/frontend/functions.php:418
+#: ../../app/frontend/functions.php:410
 #, php-format
 msgid "%1$s Archives: %2$s"
-msgstr ""
-
-#: ../../app/frontend/functions.php:495 ../..
-#: app/frontend/integrations/projects/template.php:215
-msgid "Select a category:"
-msgstr ""
-
-#: ../../app/frontend/functions.php:516 ../../app/frontend/options.php:1973 ../..
-#: app/frontend/integrations/projects/template.php:218 ../..
-#: app/frontend/widgets/blogauthor.php:227
-msgid "All"
-msgstr ""
-
-#: ../../app/frontend/functions.php:553
-msgid "Visit Website"
 msgstr ""
 
 #: ../../app/frontend/options.php:44 ../../app/frontend/options.php:45
@@ -1190,8 +1175,8 @@ msgstr ""
 msgid "Select the typography you want for header H6."
 msgstr ""
 
-#: ../../app/frontend/options.php:362 ../../app/frontend/options.php:1940 ../..
-#: app/frontend/options.php:1999
+#: ../../app/frontend/options.php:362 ../../app/frontend/options.php:1941 ../..
+#: app/frontend/options.php:2000
 msgid "Layout"
 msgstr ""
 
@@ -1208,7 +1193,7 @@ msgid "Main Layout"
 msgstr ""
 
 #: ../../app/frontend/options.php:379 ../../app/frontend/options.php:1464 ../..
-#: app/frontend/options.php:1890 ../../app/frontend/options.php:1904
+#: app/frontend/options.php:1891 ../../app/frontend/options.php:1905
 msgid ""
 "Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
 "layout."
@@ -2145,7 +2130,7 @@ msgstr ""
 msgid "Select how many slides you would like to show in the slider."
 msgstr ""
 
-#: ../../app/frontend/options.php:1349 ../../app/frontend/options.php:1987
+#: ../../app/frontend/options.php:1349 ../../app/frontend/options.php:1988
 msgid "Slide Group"
 msgstr ""
 
@@ -2775,60 +2760,70 @@ msgid "Red"
 msgstr ""
 
 #: ../../app/frontend/options.php:1862
-msgid "White"
+msgid "Teal"
 msgstr ""
 
 #: ../../app/frontend/options.php:1863
+msgid "White"
+msgstr ""
+
+#: ../../app/frontend/options.php:1864
 msgid "Yellow"
 msgstr ""
 
-#: ../../app/frontend/options.php:1866
+#: ../../app/frontend/options.php:1867
 msgid "Map Callout Text"
 msgstr ""
 
-#: ../../app/frontend/options.php:1867
+#: ../../app/frontend/options.php:1868
 msgid ""
 "Text or HTML that will be output when you click on the map marker for your "
 "location."
 msgstr ""
 
-#: ../../app/frontend/options.php:1883
-msgid "Enable Old Portfolio Look"
-msgstr ""
-
 #: ../../app/frontend/options.php:1884
-msgid "This alternative design resembles the old Portfolio layout."
+msgid "Simplify Layout"
 msgstr ""
 
-#: ../../app/frontend/options.php:1889
+#: ../../app/frontend/options.php:1885
+msgid "This enables simply slim simplifying layout."
+msgstr ""
+
+#: ../../app/frontend/options.php:1890
 msgid "Galleries Page Layout"
 msgstr ""
 
-#: ../../app/frontend/options.php:1903
+#: ../../app/frontend/options.php:1904
 msgid "Single Project Layout"
 msgstr ""
 
-#: ../../app/frontend/options.php:1942 ../../app/frontend/options.php:2001
+#: ../../app/frontend/options.php:1943 ../../app/frontend/options.php:2002
 msgid "Select a specific layout for this post/page. Overrides default site layout."
 msgstr ""
 
-#: ../../app/frontend/options.php:1954
+#: ../../app/frontend/options.php:1955
 msgid "Embed"
 msgstr ""
 
-#: ../../app/frontend/options.php:1956
+#: ../../app/frontend/options.php:1957
 msgid "Enter embed code for use on single posts and with the Video widget."
 msgstr ""
 
-#: ../../app/frontend/options.php:1962
+#: ../../app/frontend/options.php:1963
 msgid "URL"
 msgstr ""
 
-#: ../../app/frontend/options.php:1964
+#: ../../app/frontend/options.php:1965
 msgid "Enter URL if you want to add a link to the uploaded image. (optional)"
 msgstr ""
 
-#: ../../app/frontend/options.php:1989
+#: ../../app/frontend/options.php:1974 ../..
+#: app/frontend/integrations/projects/template.php:218 ../..
+#: app/frontend/widgets/blogauthor.php:227
+msgid "All"
+msgstr ""
+
+#: ../../app/frontend/options.php:1990
 msgid ""
 "Optionally select a \"Slide Group\" to show slides from only that \"Slide "
 "Group\"."
@@ -3163,6 +3158,10 @@ msgstr ""
 
 #: ../../app/frontend/integrations/projects/template-recent-projects.php:14
 msgid "Recent Projects"
+msgstr ""
+
+#: ../../app/frontend/integrations/projects/template.php:215
+msgid "Select a category:"
 msgstr ""
 
 #: ../../app/frontend/integrations/projects/template.php:218
@@ -3564,37 +3563,37 @@ msgstr "Sök"
 msgid "Settings"
 msgstr "Inställningar"
 
-#: ../../app/frontend/actions.php:2492 ../../app/frontend/options.php:763 ../..
+#: ../../app/frontend/actions.php:2491 ../../app/frontend/options.php:763 ../..
 #: app/frontend/extensions/hooks/classes/hooks.php:635
 msgid "Navigation"
 msgstr "Meny"
 
-#: ../../app/frontend/functions.php:197 ../../app/frontend/functions.php:237
+#: ../../app/frontend/functions.php:189 ../../app/frontend/functions.php:229
 msgid "Subscribe to our e-mail newsletter to receive updates."
 msgstr "Prenumerera på vårt nyhetsbrev för att få uppdateringar."
 
-#: ../../app/frontend/functions.php:241 ../../app/frontend/functions.php:241 ../..
-#: app/frontend/functions.php:241 ../../app/frontend/functions.php:253 ../..
-#: app/frontend/functions.php:253 ../../app/frontend/functions.php:253
+#: ../../app/frontend/functions.php:233 ../../app/frontend/functions.php:233 ../..
+#: app/frontend/functions.php:233 ../../app/frontend/functions.php:245 ../..
+#: app/frontend/functions.php:245 ../../app/frontend/functions.php:245
 msgid "E-mail"
 msgstr "E-post"
 
-#: ../../app/frontend/functions.php:245 ../../app/frontend/functions.php:254 ../..
+#: ../../app/frontend/functions.php:237 ../../app/frontend/functions.php:246 ../..
 #: templates/template-contact-form.php:255
 msgid "Submit"
 msgstr "Skicka"
 
-#: ../../app/frontend/functions.php:306
+#: ../../app/frontend/functions.php:298
 msgid "Related Posts:"
 msgstr "Relaterade inlägg:"
 
-#: ../../app/frontend/functions.php:358 ../../app/frontend/functions.php:369 ../..
-#: app/frontend/functions.php:376 ../../app/frontend/functions.php:383 ../..
-#: app/frontend/functions.php:404
+#: ../../app/frontend/functions.php:350 ../../app/frontend/functions.php:361 ../..
+#: app/frontend/functions.php:368 ../../app/frontend/functions.php:375 ../..
+#: app/frontend/functions.php:396
 msgid "Archive"
 msgstr "Arkiv"
 
-#: ../../app/frontend/functions.php:389
+#: ../../app/frontend/functions.php:381
 msgid "Author Archive"
 msgstr "Skrivbent arkiv"
 
